@@ -1,0 +1,5 @@
+header {
+    border: 2px solid rgb(53, 66, 78);
+    background-color: dodgerblue;
+    grid-area: header;
+}

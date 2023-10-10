@@ -1,0 +1,5 @@
+nav {
+    border: 2px solid rgb(136, 128, 128);
+    background-color: beige;
+    grid-area: nav;
+}
